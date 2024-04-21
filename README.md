@@ -17,7 +17,7 @@ self-made model, to achieve accurate object recognition on the CIFAR-10 dataset
 
 ## Demo
 
-[Demo]()
+[Demo](https://youtu.be/qa8dzU6hTHY)
 
 ## Documentation
 

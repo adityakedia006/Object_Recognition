@@ -8,11 +8,11 @@ self-made model, to achieve accurate object recognition on the CIFAR-10 dataset
 
 ## Authors
 
+- [@AdityaKedia](https://github.com/adityakedia006)
 - [@BhalaVignesh](https://www.https://github.com/victorgearhead)
 - [@AnweshAle](https://github.com/anwesh2410)
 - [@HiteshShanmukha](https://github.com/hiteshshanmukha)
 - [@AtharvaDate](https://github.com/ADIITJ)
-- [@AdityaKedia](https://github.com/adityakedia006)
 
 
 
